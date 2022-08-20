@@ -3,6 +3,17 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <router-link to="/Inicio">Inicio</router-link>
+        <router-link to="/create">create</router-link>
+          <router-link to="/index">index</router-link>
+          <router-link to="/update">update</router-link>
+          
+
+      
+      
+      
+      
+
     </nav>
     <router-view/>
   </div>
